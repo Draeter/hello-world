@@ -1,5 +1,4 @@
 # hello-world
 My first repository
 Hello Everyone
-I`m will learn how to coding right because I want it.
-So here I go !
+Esse foi minha primeira experiencia com Git, aqui aprendi a usar os comandos mais basicos, como o git init, status, add, commit, etc.
